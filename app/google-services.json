@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "371914081385",
+    "firebase_url": "https://godfhell-e4afc.firebaseio.com",
+    "project_id": "godfhell-e4afc",
+    "storage_bucket": "godfhell-e4afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371914081385:android:9523fdfb594cb9b1",
+        "android_client_info": {
+          "package_name": "com.example.adina.godfhell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371914081385-cvbe6uq0j0qajpicvtloll78csge3b7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adina.godfhell",
+            "certificate_hash": "a5dd279233bf4db9bb8d15dfa2de75b0c84d86ff"
+          }
+        },
+        {
+          "client_id": "371914081385-7hadjv7ml8egqi5je6br17quovk02gha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ-QTFzgFNA97DHkJ6Nf2K0vqvpYNfOuM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371914081385-7hadjv7ml8egqi5je6br17quovk02gha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
